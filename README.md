@@ -1,10 +1,10 @@
 # Kalkulator
-Aplikasi ini dibuat untuk memenuhi Tugas 6 JWD 1
+Aplikasi kalkulator ini dibuat untuk memenuhi Tugas 6 JWD 1.
 
 ## Fitur
 Aplikasi ini memiliki beberapa fitur yang dapat digunakan, yaitu sebagai berikut.
-Dapat menginput 2 variabel nilai (nilai pertama dan nilai kedua).
-Dapat menghitung penjumlahan, pengurangan, perkalian, dan pembagian dari kedua nilai yang telah diinputkan oleh user.
+* Dapat menginput 2 variabel nilai (nilai pertama dan nilai kedua).
+* Dapat menghitung penjumlahan, pengurangan, perkalian, dan pembagian dari kedua nilai yang telah diinputkan oleh user.
 
 ## Apps
 Aplikasi ini dibuat menggunakan :
